@@ -1,5 +1,6 @@
 package se.lexicon.model;
 
+
 public class AdvancedVendingMachine implements VendingMachine {
 
     private Product[] products;

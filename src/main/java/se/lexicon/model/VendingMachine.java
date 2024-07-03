@@ -8,4 +8,5 @@ public interface VendingMachine {
     int endSession();
     String getDescription(int id);
     String[] getProducts();
+
 }

@@ -46,7 +46,6 @@ public abstract class Product {
     public String Use() {
         return getproductName();
     }
-
 }
 
 

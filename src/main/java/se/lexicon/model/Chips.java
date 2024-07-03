@@ -1,5 +1,6 @@
 package se.lexicon.model;
 
+
 public class Chips extends Product {
 
     String flavor;

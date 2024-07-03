@@ -1,5 +1,6 @@
 package se.lexicon.model;
 
+
 public class Candy extends Product {
     private String type;
 

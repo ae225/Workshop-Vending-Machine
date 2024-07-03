@@ -3,6 +3,7 @@ package se.lexicon;
 import se.lexicon.model.AdvancedVendingMachine;
 import se.lexicon.model.Product;
 
+
 public class VendingMachineMain {
 
     public static void main(String[] args) {
